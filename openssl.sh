@@ -1,3 +1,5 @@
+#!/usr/bin/bash
+
 sudo echo "Installing Open SSL"
 cd ~
 sudo wget https://www.openssl.org/source/openssl-3.1.2.tar.gz

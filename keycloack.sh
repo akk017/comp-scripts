@@ -1,0 +1,1 @@
+wget https://github.com/keycloak/keycloak/releases/download/26.1.4/keycloak-26.1.4.zip
